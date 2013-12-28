@@ -1,2 +1,3 @@
-nbluetooth
-==========
+## nbluetooth
+
+Implementing Bluetooth in .NET.
